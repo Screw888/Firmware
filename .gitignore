@@ -71,4 +71,4 @@ posix-configs/SITL/init/test/*_generated
 /modules
 
 *.gcov
-/launch/typhoon_h480_vehicle_spawn.launch
+
